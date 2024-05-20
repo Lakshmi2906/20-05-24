@@ -1,0 +1,3 @@
+#3 CodeChef Learn Problem Solving
+N=int(input())
+print(N*2)
